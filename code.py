@@ -7,6 +7,6 @@ bef begin():
     pass
 
   
-# modelop.core
+# modelop.score
 def action(x):
     yield x
